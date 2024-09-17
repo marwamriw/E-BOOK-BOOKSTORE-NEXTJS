@@ -1,0 +1,34 @@
+{
+    "name": "test",
+    "short_name": "test",
+    "start_url": "/",
+    "icons": [
+      {
+        "src": "/1.jpg",
+        "sizes": "600x600",
+        "type": "image/png",
+        "form_factor": "wide"
+      }
+      
+    ],
+    "screenshots": [
+      {
+        "src": "/1.jpg",
+        "sizes": "600x600",
+        "type": "image/png",
+
+        "label": "test"
+      },
+      {
+        "src": "/1.jpg",
+        "sizes": "600x600",
+        "type": "image/png",
+        "form_factor": "wide",
+        "label": "test"
+      }
+     
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+  }
